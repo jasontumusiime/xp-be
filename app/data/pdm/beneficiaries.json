@@ -1,0 +1,222 @@
+[
+  {
+    "external_id": "PDM-BEN-001",
+    "full_name": "Okello John Bosco",
+    "phone_number": "0772123456",
+    "national_id": "CM92034102XK1",
+    "district": "Gulu",
+    "sub_county": "Bardege-Layibi",
+    "parish": "Pece",
+    "program_type": "Agriculture",
+    "enterprise": "Maize Farming"
+  },
+  {
+    "external_id": "PDM-BEN-002",
+    "full_name": "Nabirye Sarah",
+    "phone_number": "0701987654",
+    "national_id": "CF87091234PL2",
+    "district": "Iganga",
+    "sub_county": "Nakalama",
+    "parish": "Bulamagi",
+    "program_type": "Livestock",
+    "enterprise": "Poultry"
+  },
+  {
+    "external_id": "PDM-BEN-003",
+    "full_name": "Ssemanda Peter",
+    "phone_number": "0754556677",
+    "national_id": "CM85022311QW4",
+    "district": "Mpigi",
+    "sub_county": "Muduuma",
+    "parish": "Kammengo",
+    "program_type": "Trade",
+    "enterprise": "Retail Shop"
+  },
+  {
+    "external_id": "PDM-BEN-004",
+    "full_name": "Achan Grace",
+    "phone_number": "0789001122",
+    "national_id": "CF91011223ZX9",
+    "district": "Lira",
+    "sub_county": "Ojwina",
+    "parish": "Ojwina Central",
+    "program_type": "Agriculture",
+    "enterprise": "Groundnuts"
+  },
+  {
+    "external_id": "PDM-BEN-005",
+    "full_name": "Byaruhanga James",
+    "phone_number": "0703124567",
+    "national_id": "CM88067789RT5",
+    "district": "Mbarara",
+    "sub_county": "Kakiika",
+    "parish": "Ruti",
+    "program_type": "Livestock",
+    "enterprise": "Dairy Farming"
+  },
+  {
+    "external_id": "PDM-BEN-006",
+    "full_name": "Nakato Miriam",
+    "phone_number": "0773456781",
+    "national_id": "CF93020111AB3",
+    "district": "Mukono",
+    "sub_county": "Goma",
+    "parish": "Ntaawo",
+    "program_type": "Agriculture",
+    "enterprise": "Banana Farming"
+  },
+  {
+    "external_id": "PDM-BEN-007",
+    "full_name": "Ouma Charles",
+    "phone_number": "0756677889",
+    "national_id": "CM89050122CD4",
+    "district": "Soroti",
+    "sub_county": "Arapai",
+    "parish": "Arapai",
+    "program_type": "Trade",
+    "enterprise": "Boda Parts"
+  },
+  {
+    "external_id": "PDM-BEN-008",
+    "full_name": "Atim Beatrice",
+    "phone_number": "0781122334",
+    "national_id": "CF95032156EF5",
+    "district": "Arua",
+    "sub_county": "Ayivu East",
+    "parish": "Aroi",
+    "program_type": "Livestock",
+    "enterprise": "Goat Rearing"
+  },
+  {
+    "external_id": "PDM-BEN-009",
+    "full_name": "Mugisha Robert",
+    "phone_number": "0704455667",
+    "national_id": "CM86081234GH6",
+    "district": "Hoima",
+    "sub_county": "Kigorobya",
+    "parish": "Bwikya",
+    "program_type": "Agriculture",
+    "enterprise": "Coffee Farming"
+  },
+  {
+    "external_id": "PDM-BEN-010",
+    "full_name": "Nansubuga Lydia",
+    "phone_number": "0779988776",
+    "national_id": "CF92099876IJ7",
+    "district": "Wakiso",
+    "sub_county": "Nansana",
+    "parish": "Kyebando",
+    "program_type": "Trade",
+    "enterprise": "Salon"
+  },
+  {
+    "external_id": "PDM-BEN-011",
+    "full_name": "Abaho Wilson",
+    "phone_number": "0751237890",
+    "national_id": "CM87123198KL8",
+    "district": "Kabale",
+    "sub_county": "Northern Division",
+    "parish": "Central",
+    "program_type": "Agriculture",
+    "enterprise": "Irish Potatoes"
+  },
+  {
+    "external_id": "PDM-BEN-012",
+    "full_name": "Akello Rose",
+    "phone_number": "0782233445",
+    "national_id": "CF94011144MN9",
+    "district": "Kitgum",
+    "sub_county": "Pager",
+    "parish": "Central",
+    "program_type": "Livestock",
+    "enterprise": "Pig Farming"
+  },
+  {
+    "external_id": "PDM-BEN-013",
+    "full_name": "Ssali Joseph",
+    "phone_number": "0705566778",
+    "national_id": "CM83067788OP1",
+    "district": "Masaka",
+    "sub_county": "Nyendo-Mukungwe",
+    "parish": "Ssenyange",
+    "program_type": "Trade",
+    "enterprise": "Hardware Kiosk"
+  },
+  {
+    "external_id": "PDM-BEN-014",
+    "full_name": "Chebet Mary",
+    "phone_number": "0776655443",
+    "national_id": "CF91112233QR2",
+    "district": "Kapchorwa",
+    "sub_county": "Kaptanya",
+    "parish": "Kaptanya",
+    "program_type": "Agriculture",
+    "enterprise": "Irish Potatoes"
+  },
+  {
+    "external_id": "PDM-BEN-015",
+    "full_name": "Tumwine Prossy",
+    "phone_number": "0753344556",
+    "national_id": "CF90044321ST3",
+    "district": "Bushenyi",
+    "sub_county": "Ishaka Division",
+    "parish": "Kashenyi",
+    "program_type": "Livestock",
+    "enterprise": "Layer Birds"
+  },
+  {
+    "external_id": "PDM-BEN-016",
+    "full_name": "Waiswa Daniel",
+    "phone_number": "0787766554",
+    "national_id": "CM88120011UV4",
+    "district": "Jinja",
+    "sub_county": "Budondo",
+    "parish": "Namizi",
+    "program_type": "Agriculture",
+    "enterprise": "Sugarcane"
+  },
+  {
+    "external_id": "PDM-BEN-017",
+    "full_name": "Anywar Harriet",
+    "phone_number": "0706677889",
+    "national_id": "CF93090987WX5",
+    "district": "Nebbi",
+    "sub_county": "Paidha",
+    "parish": "Jupangira",
+    "program_type": "Trade",
+    "enterprise": "Produce Buying"
+  },
+  {
+    "external_id": "PDM-BEN-018",
+    "full_name": "Katongole Fred",
+    "phone_number": "0771010101",
+    "national_id": "CM85050555YZ6",
+    "district": "Kampala",
+    "sub_county": "Nakawa Division",
+    "parish": "Naguru II",
+    "program_type": "Trade",
+    "enterprise": "Small Retail"
+  },
+  {
+    "external_id": "PDM-BEN-019",
+    "full_name": "Nampijja Ruth",
+    "phone_number": "0752121212",
+    "national_id": "CF96060666AA7",
+    "district": "Kampala",
+    "sub_county": "Kawempe Division",
+    "parish": "Bwaise I",
+    "program_type": "Livestock",
+    "enterprise": "Mushroom Farming"
+  },
+  {
+    "external_id": "PDM-BEN-020",
+    "full_name": "Bwambale Steven",
+    "phone_number": "0783232323",
+    "national_id": "CM89101077BB8",
+    "district": "Kasese",
+    "sub_county": "Nyamwamba Division",
+    "parish": "Kirembe",
+    "program_type": "Agriculture",
+    "enterprise": "Beans Farming"
+  }
+]

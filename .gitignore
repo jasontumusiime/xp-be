@@ -1,0 +1,16 @@
+__pycache__
+app.egg-info
+*.pyc
+.mypy_cache
+.coverage
+htmlcov
+.cache
+.venv
+venv/
+firebase-service-account.json
+requirements.txt
+.env
+.env.*
+!.env.example
+app.db
+media/
